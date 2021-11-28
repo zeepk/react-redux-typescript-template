@@ -1,1 +1,1 @@
-# react-redux-typescript-template
+# React-Redux-Typescript Template Project
