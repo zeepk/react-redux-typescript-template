@@ -16,7 +16,8 @@ export const isDxpOver = DateTime.now() > dxpEnd;
 export const apiBaseUrl = process.env.REACT_APP_API_URL;
 export const twitterUsername = '@matthughes2112';
 export const twitterUrl = `https://twitter.com/${twitterUsername}`;
-export const githubUrl = 'https://github.com/zeepk/woodcut';
+export const githubUrl =
+	'https://github.com/zeepk/react-redux-typescript-template';
 
 // fish
 
